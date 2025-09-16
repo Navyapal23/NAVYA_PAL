@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Navya Pal | Portfolio</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-50 text-gray-800 font-sans">
+  <!-- Header -->
+  <header class="bg-indigo-600 text-white py-8 shadow-lg">
+    <div class="max-w-5xl mx-auto px-6 text-center">
+      <h1 class="text-4xl font-bold">Navya Pal</h1>
+      <p class="text-lg mt-2">MBA Candidate, Class of 2026</p>
+      <p class="mt-1">Business Analyst | Sales & Marketing | Automation | Data Analytics</p>
+    </div>
+  </header>
+
+  <!-- Main Content -->
+  <main class="max-w-5xl mx-auto px-6 py-10 space-y-10">
+    <!-- Education -->
+    <section>
+      <h2 class="text-2xl font-semibold text-indigo-600 mb-4">Education</h2>
+      <ul class="space-y-3">
+        <li><strong>B.Tech (ECE)</strong>, ADGITM, Delhi – 8.09 GPA, 1st Division (2022)</li>
+        <li><strong>Senior Secondary</strong>, Rosary Sr. Sec. School – 72.6% (2017)</li>
+        <li><strong>Higher Secondary</strong>, Rosary Sr. Sec. School – 82% (2015)</li>
+      </ul>
+    </section>
+
+    <!-- Achievements -->
+    <section>
+      <h2 class="text-2xl font-semibold text-indigo-600 mb-4">Key Achievements</h2>
+      <ul class="list-disc ml-6 space-y-2">
+        <li>“High Five” award for launching loan automation project increasing disbursement speed</li>
+        <li>Pinnacle Performer for proposing workflow automation accelerating loan approvals</li>
+        <li>Selected among top 32 to revamp product suite and process solutions</li>
+      </ul>
+    </section>
+
+    <!-- Work Experience -->
+    <section>
+      <h2 class="text-2xl font-semibold text-indigo-600 mb-4">Work Experience</h2>
+      <div class="space-y-6">
+        <div>
+          <h3 class="font-bold text-lg">Newgen Software – Associate Business Analyst (Jul 2022 – May 2024)</h3>
+          <ul class="list-disc ml-6 space-y-2">
+            <li>Developed MVP reducing development time by 25% and lowering costs</li>
+            <li>Built lead generation portal achieving 30% conversion rate</li>
+            <li>Drove 43% increase in customer base via acquisition strategy</li>
+            <li>Reduced costs by 60% through automation, improving scalability</li>
+            <li>Trained 35+ users and led 3 cross-functional teams to boost efficiency by 20%</li>
+          </ul>
+        </div>
+        <div>
+          <h3 class="font-bold text-lg">Signify Innovations – Sales & Marketing Intern (Apr 2025 – May 2025)</h3>
+          <ul class="list-disc ml-6 space-y-2">
+            <li>Revamped OTD cycle, cutting lead times by 40%</li>
+            <li>Analyzed 200+ stakeholder insights to remove bottlenecks</li>
+            <li>Standardized SOP reducing iterations by 30%</li>
+            <li>Built sales dashboards driving 12% uplift in opportunities</li>
+          </ul>
+        </div>
+        <div>
+          <h3 class="font-bold text-lg">LG Electronics – Intern (Nov 2021 – Dec 2021)</h3>
+          <ul class="list-disc ml-6 space-y-2">
+            <li>Tested 10+ components improving efficiency of refrigerators</li>
+            <li>Designed PCB layouts reducing system failures</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <!-- Entrepreneurship -->
+    <section>
+      <h2 class="text-2xl font-semibold text-indigo-600 mb-4">Entrepreneurship</h2>
+      <p><strong>Founder – The Handcraft Store</strong></p>
+      <ul class="list-disc ml-6 space-y-2">
+        <li>Founded online business, driving 1,000+ impressions per post through content marketing</li>
+        <li>Managed a team of 3 optimizing advertising strategies</li>
+        <li>Curated 15+ unique items, boosting sales and engagement</li>
+      </ul>
+    </section>
+
+    <!-- Leadership -->
+    <section>
+      <h2 class="text-2xl font-semibold text-indigo-600 mb-4">Leadership & Extracurriculars</h2>
+      <ul class="list-disc ml-6 space-y-2">
+        <li>President, Dance Club – led 40+ members, organized cultural events for 200+ attendees</li>
+        <li>Cultural Secretary – managed 200+ students across academics and activities</li>
+        <li>Top 10 of 220 students on Doordarshan talk show</li>
+        <li>1st place in interschool baseball & karate competitions</li>
+      </ul>
+    </section>
+
+    <!-- Skills -->
+    <section>
+      <h2 class="text-2xl font-semibold text-indigo-600 mb-4">Skills & Certifications</h2>
+      <ul class="list-disc ml-6 space-y-2">
+        <li>Technical: Python, JIRA, Confluence, Figma</li>
+        <li>Data Analysis: Excel, MySQL, Tableau, PySpark</li>
+        <li>Bootcamp: Data Science (EDA, customer behavior insights)</li>
+      </ul>
+    </section>
+  </main>
+
+  <!-- Footer -->
+  <footer class="bg-indigo-600 text-white py-6 mt-10">
+    <div class="max-w-5xl mx-auto px-6 text-center">
+      <p>© 2025 Navya Pal | Built with TailwindCSS</p>
+    </div>
+  </footer>
+</body>
+</html>
